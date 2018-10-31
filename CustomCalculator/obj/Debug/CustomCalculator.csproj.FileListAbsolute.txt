@@ -88,3 +88,4 @@ C:\Users\mcmac\dev\dotnet_Project3B\CustomCalculator\obj\Debug\CustomCalculator.
 C:\Users\mcmac\dev\dotnet_Project3B\CustomCalculator\obj\Debug\dje\CustomCalculator.resources.dll
 C:\Users\mcmac\dev\dotnet_Project3B\CustomCalculator\obj\Debug\CustomCalculator.exe
 C:\Users\mcmac\dev\dotnet_Project3B\CustomCalculator\obj\Debug\CustomCalculator.pdb
+C:\Users\mcmac\dev\dotnet_Project3B\CustomCalculator\obj\Debug\CustomCalculator.csprojAssemblyReference.cache
