@@ -110,11 +110,6 @@ namespace CustomCalculator
 
         }
 
-        private void btnMenuReturn_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
 
         // ==========
         // DIVISION
